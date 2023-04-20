@@ -1,43 +1,10 @@
-NightWalker ChatGpt
+NightWalker-AI
 
 https://github.com/NIGHTWALKER3
 
 
 
-pkg update && pkg upgrade -y
+For Installation Join In The Link Given Below👇
 
 
-pkg install git -y
-
-
-apt install nodejs -y
-
-
-apt install nodejs-lts -y
-
-
- apt install nano -y
- 
- 
-git clone https://github.com/NIGHTWALKER3/Nw.git
-
-
-cd Nw
-
-
-npm install
-
-
-
-_________________________
-
-nano api.json
- 
- 
-setup your ai key
-
-
-To Start 👇
-
-node index.js
-
+https://t.me/nightwalker31
